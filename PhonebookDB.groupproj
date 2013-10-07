@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{6CC60243-2BCB-436D-8553-F29CFF4CD306}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="TProcessButton\PhonebookComponents.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="DLL\Messages.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Phones.dproj">
+            <Dependencies>DLL\Messages.dproj</Dependencies>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="PhonebookComponents">
+        <MSBuild Projects="TProcessButton\PhonebookComponents.dproj"/>
+    </Target>
+    <Target Name="PhonebookComponents:Clean">
+        <MSBuild Projects="TProcessButton\PhonebookComponents.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PhonebookComponents:Make">
+        <MSBuild Projects="TProcessButton\PhonebookComponents.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Messages">
+        <MSBuild Projects="DLL\Messages.dproj"/>
+    </Target>
+    <Target Name="Messages:Clean">
+        <MSBuild Projects="DLL\Messages.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Messages:Make">
+        <MSBuild Projects="DLL\Messages.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Phones" DependsOnTargets="Messages">
+        <MSBuild Projects="Phones.dproj"/>
+    </Target>
+    <Target Name="Phones:Clean" DependsOnTargets="Messages:Clean">
+        <MSBuild Projects="Phones.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Phones:Make" DependsOnTargets="Messages:Make">
+        <MSBuild Projects="Phones.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="PhonebookComponents;Messages;Phones"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="PhonebookComponents:Clean;Messages:Clean;Phones:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="PhonebookComponents:Make;Messages:Make;Phones:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

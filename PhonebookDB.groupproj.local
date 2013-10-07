@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.079,C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\ProjectGroup1.groupproj=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2012-11-05 14:58:29.445,C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\PhonebookDB.groupproj=C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\DLL\Messages.dproj"/>
+	</Default.Personality>
+</BorlandProject>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.187,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Edytuj.dfm=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Edit.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.818,C:\Users\mescam\Desktop\Organizacja koncertów\Unit1.dfm=C:\Users\mescam\Desktop\Organizacja koncertów\Main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.748,C:\Users\mescam\Desktop\Organizacja koncertów\Project1.dproj=C:\Users\mescam\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.617,C:\Users\mescam\Desktop\Organizacja koncertów\Project1.dproj=C:\Users\mescam\Desktop\Organizacja koncertów\OK.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.260,C:\Users\mescam\Desktop\Organizacja koncertów\Unit1.dfm=C:\Users\mescam\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.548,=C:\Users\mescam\Desktop\Organizacja koncertów\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.087,=C:\Users\mescam\Desktop\Organizacja koncertów\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.875,C:\Users\mescam\Desktop\Organizacja koncertów\Dodaj.pas=C:\Users\mescam\Desktop\Organizacja koncertów\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.458,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\OK.dproj=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Phones.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.187,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Edytuj.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Edit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.182,=C:\Users\mescam\Desktop\Organizacja koncertów\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.077,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Lista.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\LinkedList.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.348,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Add.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\AddClient.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.985,C:\Users\mescam\Desktop\Organizacja koncertów\Unit3.pas=C:\Users\mescam\Desktop\Organizacja koncertów\Edytuj.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.875,=C:\Users\mescam\Desktop\Organizacja koncertów\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.523,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Search.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\SearchClient.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.523,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Search.dfm=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\SearchClient.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.712,C:\Users\mescam\Desktop\Organizacja koncertów\Unit4.pas=C:\Users\mescam\Desktop\Organizacja koncertów\Wyszukaj.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.574,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Dodaj.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Add.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.574,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Dodaj.dfm=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Add.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.552,=C:\Users\mescam\Desktop\Organizacja koncertów\SQLiteTable3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.960,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Edit.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\EditClient.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.712,C:\Users\mescam\Desktop\Organizacja koncertów\Unit4.dfm=C:\Users\mescam\Desktop\Organizacja koncertów\Wyszukaj.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.518,C:\Users\mescam\Desktop\Organizacja koncertów\SQLiteTable3.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.455,=C:\Users\mescam\Desktop\Organizacja koncertów\SQLite3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.920,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Wyszukaj.pas=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Search.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.772,=C:\Users\mescam\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.225,C:\Users\mescam\Desktop\Organizacja koncertów\SQLite3.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.145,C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\Phones.dproj=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Phones.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.136,=C:\Users\mescam\Desktop\Organizacja koncertów\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.164,C:\Users\mescam\Desktop\Organizacja koncertów\Unit1.pas=C:\Users\mescam\Desktop\Organizacja koncertów\Lista.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.818,C:\Users\mescam\Desktop\Organizacja koncertów\Unit1.pas=C:\Users\mescam\Desktop\Organizacja koncertów\Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.260,C:\Users\mescam\Desktop\Organizacja koncertów\Unit1.pas=C:\Users\mescam\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,C:\Users\mescam\Desktop\Organizacja koncertów\Unit3.dfm=C:\Users\mescam\Desktop\Organizacja koncertów\Edytuj.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.920,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Wyszukaj.dfm=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Search.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.348,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Add.dfm=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\AddClient.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.875,C:\Users\mescam\Desktop\Organizacja koncertów\Dodaj.dfm=C:\Users\mescam\Desktop\Organizacja koncertów\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.960,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\Edit.dfm=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\EditClient.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

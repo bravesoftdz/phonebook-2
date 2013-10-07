@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.109,C:\Users\mescam\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\mescam\Desktop\Organizacja koncertów\DLL\MojeFunkcje.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.068,C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\DLL\MojeFunkcje.dproj=C:\Users\Łukasz\Documents\RAD Studio\Projects\Organizacja koncertów\DLL\Messages.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.199,=C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\DLL\ModelSupport_Messages\Messages\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.845,=C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\DLL\ModelSupport_Messages\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.042,=C:\Users\Łukasz\Documents\RAD Studio\Projects\Phonebook\DLL\ModelSupport_Messages\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
